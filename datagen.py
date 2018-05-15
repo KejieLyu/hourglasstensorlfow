@@ -27,6 +27,9 @@ Abstract:
         This work is free of use, please cite the author if you use it!
 
 """
+from __future__ import print_function
+from __future__ import division
+
 import numpy as np
 import cv2
 import os
